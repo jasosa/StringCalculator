@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>xunit.runners</id>
+    <version>2.0.0-beta-build2616</version>
+    <title>xUnit.net [Runners]</title>
+    <authors>James Newkirk,  Brad Wilson</authors>
+    <owners>James Newkirk,  Brad Wilson</owners>
+    <licenseUrl>https://raw.githubusercontent.com/xunit/xunit/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/xunit/xunit</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/xunit/media/master/logo-512-transparent.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Runners for the xUnit.net framework, including Console and MSBuild.</description>
+    <language>en-US</language>
+  </metadata>
+</package>
